@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardwareCodeGrabber", "HardwareCodeGrabber\HardwareCodeGrabber.csproj", "{AE799231-0BF8-45B0-A10B-F4E331E111BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE799231-0BF8-45B0-A10B-F4E331E111BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE799231-0BF8-45B0-A10B-F4E331E111BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE799231-0BF8-45B0-A10B-F4E331E111BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE799231-0BF8-45B0-A10B-F4E331E111BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0E24D41-8DBE-46C3-8C9C-03183F830FF8}
+	EndGlobalSection
+EndGlobal
