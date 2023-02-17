@@ -22,7 +22,7 @@ namespace HardwareCodeGrabber
             Process.Start(new ProcessStartInfo
             {
                 FileName = procdumpPath,
-                Arguments = $"-mp {proc.Id} {dumpPath}",
+                Arguments = $"-accepteula -mp {proc.Id} {dumpPath}",
                 RedirectStandardOutput = true,
             }).WaitForExit();
 
